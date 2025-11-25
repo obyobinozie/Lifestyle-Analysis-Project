@@ -19,5 +19,5 @@ This project explores Demographic and lifestyle drivers such as BMI, age, gender
 This section will be updated once SQL scripts and Power BI dashboards are uploaded. For now, the repository contains the project structure and documentation.
 ## Insights & Next Steps
 ## Porfolio & Sharing
-git clone https://github.com/obyobinozie/LifestyleOUTLIERS-Analysis-Project.git
+git clone [https://github.com/obyobinozie/Lifestyle-Analysis-Project].git
    
