@@ -6,10 +6,12 @@ This project explores Demographic and lifestyle drivers such as BMI, age, gender
 **BMI Outliers** visualized in Power BI | Data sourced from PostgreSQL LIFESTYLE database | Insights: Identifies individuals outside healthy BMI ranges 
 **[Screenshots will be added to the 'docs/'folder once finalised.]** 
 ## Project Structure 
-'data/raw/' raw CSV files and source data 
+'data/raw/' → raw datasets
 'sql/'  SQL scripts for queries and transformations 
 'notebooks/' Jupyter notebooks for exploration 
 'docs/' documentation and dashboard screenshots 
+## 📊 Dataset
+This dashboard uses the [LIFESTYLE dataset](./data/lifestyle.csv) to analyze workout types, calorie burn, and BMI trends.
 ## Tools Used 
 **PostgreSQL (psql)**  file encoding conversion |Schema alignment| cleaned data import
 **Power BI**  for interactive dashboards and visual storytelling 
