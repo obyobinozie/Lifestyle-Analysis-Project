@@ -11,7 +11,8 @@ This project explores Demographic and lifestyle drivers such as BMI, age, gender
 'notebooks/' Jupyter notebooks for exploration 
 'docs/' documentation and dashboard screenshots 
 ## 📊 Dataset
-This dashboard uses the [LIFESTYLE dataset](./data/lifestyle.csv) to analyze workout types, calorie burn, and BMI trends.
+This dashboard uses the 
+[LIFESTYLE dataset](./data/Lifestyledataset.csv)to analyze workout types, calorie burn, and BMI trends.
 ## Tools Used 
 **PostgreSQL (psql)**  file encoding conversion |Schema alignment| cleaned data import
 **Power BI**  for interactive dashboards and visual storytelling 
